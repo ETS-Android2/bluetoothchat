@@ -1,2 +1,2 @@
 # bluetoothchat
-A simple chat application which allows two Android devices to carry out two-way text chat over Bluetooth.
+The Bluetooth Chat Messenger is a two-way,sending and receiving, text chat program for any device powered by Google’s Android operating system with Bluetoothtransceiver’s capabilities. These devices are largely used in open and closed spaces;and everywhere as streets, squares, hotels and other places. The Bluetooth ChatMessenger does not require a GSM or Wi-Fi connection, all it needs is two Bluetoothcompatible Android devices in range of about 50 feet of each other.
